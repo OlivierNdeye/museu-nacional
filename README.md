@@ -8,3 +8,4 @@ com o intuíto de facilitar a localização do museu e de seus pontos de interes
 ## Snapshot
 ![museu-nacional](https://github.com/OlivierNdeye/museu-nacional/blob/main/img/snapshot.png)
 
+![museu-nacional](https://github.com/OlivierNdeye/museu-nacional/blob/main/img/snapshot_-_museu_-_inferior.png)
